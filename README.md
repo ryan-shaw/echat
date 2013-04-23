@@ -1,2 +1,1 @@
-echat
-=====
+The plan of this project is to create a peer-to-peer encrypted chat communication tool, which allows the communication of text and/or media
